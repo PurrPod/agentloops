@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "repository": "https://github.com/PurrPod/agentloop",
+  "agentloops": [
+    {
+      "name": "default-agentloop",
+      "description": "Default PurrCat agent loop (paradigm): injects rules/info/soul/memory and verifies the Memo tool call at loop end.",
+      "description-zh": "PurrCat 默认 Agent Loop（范式）：注入规则/信息/灵魂/记忆，并在循环结束时校验 Memo 工具调用。",
+      "enabled": true,
+      "files": [
+        "default-agentloop.yaml"
+      ],
+      "dependency": []
+    }
+  ]
+}
