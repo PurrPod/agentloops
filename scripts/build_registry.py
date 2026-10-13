@@ -20,7 +20,7 @@ import yaml
 
 REGISTRY_FILE = "registry.json"
 README_FILE = "README.md"
-REPO_URL = "https://github.com/PurrPod/agentloop"
+REPO_URL = "https://github.com/PurrPod/agentloops"
 
 LOOPS_DIR = "agentloops"
 

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "repository": "https://github.com/PurrPod/agentloop",
+  "repository": "https://github.com/PurrPod/agentloops",
   "agentloops": [
     {
       "name": "default-agentloop",

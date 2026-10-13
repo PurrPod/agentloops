@@ -19,7 +19,7 @@ AgentLoop 通常作为 UI 插件 / Graph 的依赖被自动安装：插件在其
 ## 2. 仓库架构设计
 
 ```text
-agentloop/
+agentloops/
 ├── .github/workflows/   # CI/CD 自动化构建流水线
 ├── scripts/             # 注册表构建与校验脚本
 ├── registry.json        # 全局注册表 (由 Action 自动生成)
